@@ -1,6 +1,6 @@
 # Django DRF Starter
 
-[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
+[![CI](https://github.com/marse11e/django-project-template-v2.git/actions/workflows/ci.yml/badge.svg)](https://github.com/marse11e/django-project-template-v2.git/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-5.x-green.svg)](https://www.djangoproject.com/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
@@ -50,7 +50,7 @@
 # 1. Создать папку проекта и клонировать шаблон
 mkdir my-project
 cd my-project
-git clone https://github.com/<owner>/<repo>.git .
+git clone https://github.com/marse11e/django-project-template-v2.git.git .
 
 # 2. Создать и активировать виртуальное окружение
 python -m venv .venv
@@ -78,7 +78,7 @@ python manage.py runserver
 ```bash
 mkdir my-project
 cd my-project
-git clone https://github.com/<owner>/<repo>.git .
+git clone https://github.com/marse11e/django-project-template-v2.git.git .
 cp .env.example .env
 docker compose up --build
 ```
